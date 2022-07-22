@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(179, 245, 198);
+    
+}
+.box{
+    background-color: rgb(107, 244, 148);
+    border: 10px solid;
+    opacity: 0.9;
+    /* transform-box: ; */
+    background-image: url("");
+    background-size: cover;
+    position: absolute;
+    width: 250px;
+    height:200px;
+    /* background-color:rgb(79, 207, 28); */
+    top:50%;
+    left:40%;
+    transform: translate(25%, -50%);
+    border-radius: 15px;
+    box-shadow: 0 10px 10px 10px rgb(116, 186, 93);
+    
+}
+.lock{
+    padding: calc();
+    /* margin-bottom: 100px; */
+}
